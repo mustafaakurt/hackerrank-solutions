@@ -1,3 +1,5 @@
+package com.mustafaakurt.hackerrank.algorithms.warmup;
+
 import java.io.*;
 
 class Result {

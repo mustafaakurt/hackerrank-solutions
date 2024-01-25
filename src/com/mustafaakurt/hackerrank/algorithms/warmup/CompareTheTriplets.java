@@ -1,4 +1,4 @@
-package com.mustafaakurt.hackerrank;
+package com.mustafaakurt.hackerrank.algorithms.warmup;
 
 import java.io.*;
 import java.util.ArrayList;
